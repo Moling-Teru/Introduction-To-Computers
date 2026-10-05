@@ -5,10 +5,6 @@
 
 -----
 
-这是Introduction-To-Computers的VitePress构建版本。可能与原仓库的进度不一致。
-
------
-
 LICENSE:
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
